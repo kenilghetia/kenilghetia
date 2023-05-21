@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kenilghetia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kenilghetia&icon=3&color=12)](https://visitcount.itsvg.in)
+
 <!--
 **kenilghetia/kenilghetia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
