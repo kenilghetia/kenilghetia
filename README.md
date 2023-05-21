@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kenilghetia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenil-ghetia-491434209/) 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kenilghetia&icon=3&color=12)](https://visitcount.itsvg.in)
